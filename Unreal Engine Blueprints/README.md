@@ -1,7 +1,8 @@
 # WorkSamples
 
-This is the parent repository for samples of work I use when apply for jobs within the games industry 
+This is the repository for all unreal engine projects that mostly use blueprints
 
-- A folder containing c# Unity based projects.
-- A folder containing 3 Unreal engine blueprint based projects.
-- A folder containing a number of c++ based Unreal engine projects.
+- A folder containing a game called 'Mine rush'
+- A folder containing a game called 'A study in secrecy'
+- A folder containing a game called 'Tanks-A-Lot'
+

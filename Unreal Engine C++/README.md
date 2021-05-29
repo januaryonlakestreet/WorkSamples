@@ -1,7 +1,9 @@
 # WorkSamples
 
-This is the parent repository for samples of work I use when apply for jobs within the games industry 
+this repository contains a number of c++ ue4 projects
 
-- A folder containing c# Unity based projects.
-- A folder containing 3 Unreal engine blueprint based projects.
-- A folder containing a number of c++ based Unreal engine projects.
+- A tower defence game.
+- A c++ port of the mechanics found within one of my blueprint games 'A study in secrecy'.
+- A 1 vs computer death match game.
+- A roguelike prototype.
+- My Entry for the 'search for a star competition.
