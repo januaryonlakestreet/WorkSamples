@@ -5,7 +5,20 @@
 </p>
 
 <b>plot the game </b>
+<p>A study in secrecy is a procedurally generated sci-fi puzzle game, where the player acts as a hacker trying to break in to the servers of 1 of 3 mega-corporations and steal the data found within. "+
+"despite this project being developed over one academic year, it did suffer from a major breakdown in communication.</p>
 
 <b>My contribution </b>
+<p>Despite acting as a junior tech on this project I was fairly crucial to this project."+
+"A bulk of my time was spent developing the procedural generation aspect of this project developing "+
+"it so that the player had a path through different puzzle rooms with no backtracking needed and sufficient configurability as to let each mega-corporation feel different."+
+"Towards the end of development I was asked to work on a number of design aspects that got cut for example I developed a post level generation cut scene tool that would give the player a better overview of the generated route."+
+"Additionally I was responsible for designing a number of puzzle rooms.</p>
 
+<b>Screenshots</b>
+ <img  src="HighresScreenshot00000.png">
+ <img  src="HighresScreenshot00001.png">
+ <img  src="HighresScreenshot00002.png">
 <b>playable build links</b>
+
+<b>Extra</b>
