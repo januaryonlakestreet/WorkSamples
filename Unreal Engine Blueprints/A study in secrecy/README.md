@@ -1,4 +1,5 @@
 # Mine Rush
 
-
-![Alt text](sslogo.png?raw=true "Title")
+<p align="center">
+  <img width="460" height="300" src="sslogo.png">
+</p>
