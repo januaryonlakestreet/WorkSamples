@@ -27,4 +27,8 @@ Playable build :- https://drive.google.com/file/d/1OqCvum34lHAzVvtlcli8qXlpQBDPL
 Source files :- 
 
 <b>Extra</b>
-![Trailer](A Study in Secrecy game trailer.mp4)
+<video width="320" height="240" controls>
+  <source src="A Study in Secrecy game trailer.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video>
