@@ -9,11 +9,16 @@
 year to develop this project, it did suffer from a cronic lack of an animator forcing us to cut corners</p>
 
 <b>My contribution </b>
-<p>Officially my role in this project was a junior tech however I was given the procedural generation system that underpins the entire game as my entire "+
-"A bulk of my time was spent developing the procedural generation aspect of this project developing "+
-"it so that the player had a path through different puzzle rooms with no backtracking needed and sufficient configurability as to let each mega-corporation feel different."+
-"Towards the end of development I was asked to work on a number of design aspects that got cut for example I developed a post level generation cut scene tool that would give the player a better overview of the generated route."+
-"Additionally I was responsible for designing a number of puzzle rooms.</p>
+
+<p> Officially my role on this project was 'Junior developer', in terms of development team there was 2 developers (me and a senior) and 8 artists.</p>
+
+<ul>
+  <li>Developed the procedural generation system that underpins the entire game as my entire </li>
+  <li>Occasional puzzle room design</li>
+  <li>A number of QOL things that got cut such as post level generation cut scene systems</li>
+  <li>Implimented a bunch of the in game flavour text from prompts provided by the lead developer</li>
+</ul>  
+
  	
 <b>Screenshots</b>
  <img  src="HighresScreenshot00000.png">
@@ -27,6 +32,8 @@ Playable build :- https://drive.google.com/file/d/1OqCvum34lHAzVvtlcli8qXlpQBDPL
 Source files :- 
 
 <b>Extra</b>
+A trailer was put together for this project:-
+<br>
 <video width="320" height="240" controls>
   <source src="A Study in Secrecy game trailer.mp4" type="video/mp4">
 
