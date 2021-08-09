@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="Tanks.png">
+  <img width="400" height="173" src="Tanks.png">
 </p>
 
 <b>plot the game </b>
