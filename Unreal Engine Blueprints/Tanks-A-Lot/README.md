@@ -20,7 +20,7 @@ In this project I acted as a senior developer so in addition to developing major
   <li>Managing and assigning tasks to a sub team of 3 junior developers</li>
 </ul>  
 <b>Screenshots</b>
-<img  src="HighresScreenshot00003.png">
+<img  src="HighresScreenshot00003.PNG">
  <img  src="HighresScreenshot00001.png">
  <img  src="HighresScreenshot00002.png">
 <b>playable build links</b>
