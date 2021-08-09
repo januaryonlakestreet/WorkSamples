@@ -17,10 +17,10 @@ This project was developed over 2 months with a 3 man development team of 2 prog
 </ul> 
 
 <b>Screenshots</b>
-<img  src="game.png">
-<img  src="select.png">
-<img  src="upgrades.png">
-<img  src="networked.png">
+<img  src="game.PNG">
+<img  src="select.PNG">
+<img  src="upgrades.PNG">
+<img  src="networked.PNG">
 
 <b>playable build links</b>
 <br>
