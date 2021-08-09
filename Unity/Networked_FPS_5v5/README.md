@@ -26,8 +26,6 @@ This project was developed over 2 months with a 3 man development team of 2 prog
 <b>playable build links</b>
 <br>
 Unfortunatly due to file size the projects source files are hosted on a Gdrive
-
-<b>however a playable build can be downloaded from above</b>:
-<br>
+<b>however a playable build can be downloaded from above</b>
 Project source files(600mb):- https://drive.google.com/file/d/1aZpnqmZ4t_eXG93b8bJsCjLdz8ztrump/view?usp=sharing
 <br>
