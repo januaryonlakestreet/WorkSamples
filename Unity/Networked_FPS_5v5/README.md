@@ -1,7 +1,7 @@
 # Red vs Blue
 
 <b> project outline </b>
-This project is a 5v5 networked first person death match, inspired by classic games such as counter strike.
+This project is a 5v5 networked first person death match, developed in Unity with the networking being handled via Photons PUN 2 system. the game was inspired by classic games such as counter strike.
 
 <b> My contribution</b>
 
