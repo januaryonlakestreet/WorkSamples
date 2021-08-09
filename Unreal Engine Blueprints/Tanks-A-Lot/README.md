@@ -24,6 +24,7 @@ In this project I acted as a senior developer so in addition to developing major
  <img  src="HighresScreenshot00001.png">
  <img  src="HighresScreenshot00002.png">
 <b>playable build links</b>
+<br>
 Unfortunatly due to file size playable builds and sources are hosted on a Gdrive :
 <br>
 Playable build (493mb):- https://drive.google.com/file/d/18yir_9meZfRUIzYLqfxGO_ZGT6wyR2bn/view?usp=sharing
