@@ -10,6 +10,9 @@ Two things are included in this project
 
 2) A unity editor tool to generate levels.
 
+
+You can read the technical report that was produced from this project above **warning** the report is 30+ pages long.
+
 <b> My contribution</b>
 
 Solo developed with guidence from my supervisor.
