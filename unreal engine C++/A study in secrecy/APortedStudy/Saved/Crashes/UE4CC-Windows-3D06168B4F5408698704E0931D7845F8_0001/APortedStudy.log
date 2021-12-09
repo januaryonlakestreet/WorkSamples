@@ -1,0 +1,1339 @@
+﻿Log file open, 07/23/21 22:19:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: APortedStudy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.419342
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=januaryOnLakestr -epicuserid=edae737c463246dbbddf7a0edd45bb5e -epiclocale=en
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.23-21.19.09:273][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.23-21.19.09:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:274][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.23-21.19.09:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.23-21.19.09:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.23-21.19.09:286][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.23-21.19.09:286][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.23-21.19.09:286][  0]LogHAL: Display: Platform has ~ 32 GB [34305433600 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.23-21.19.09:286][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.23-21.19.09:286][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.23-21.19.09:287][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/APortedStudy/Saved/Config/Windows/Engine.ini]
+[2021.07.23-21.19.09:287][  0]LogInit: Computer: DESKTOP-CA0FQV7
+[2021.07.23-21.19.09:287][  0]LogInit: User: janua
+[2021.07.23-21.19.09:287][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.07.23-21.19.09:287][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.23-21.19.09:287][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.23-21.19.09:287][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.23-21.19.09:287][  0]LogMemory: Process Physical Memory: 134.81 MB used, 134.81 MB peak
+[2021.07.23-21.19.09:287][  0]LogMemory: Process Virtual Memory: 108.49 MB used, 108.49 MB peak
+[2021.07.23-21.19.09:287][  0]LogMemory: Physical Memory: 9809.23 MB used,  22906.98 MB free, 32716.21 MB total
+[2021.07.23-21.19.09:287][  0]LogMemory: Virtual Memory: 134182608.00 MB used,  35118.56 MB free, 134217728.00 MB total
+[2021.07.23-21.19.09:292][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.23-21.19.09:330][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.23-21.19.09:331][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.23-21.19.09:331][  0]LogInit: Using OS detected locale (en-GB).
+[2021.07.23-21.19.09:333][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.23-21.19.09:497][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.23-21.19.09:507][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.23-21.19.09:526][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.23-21.19.09:526][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.23-21.19.09:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.23-21.19.09:638][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.23-21.19.09:638][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.23-21.19.09:638][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.23-21.19.09:742][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.07.23-21.19.09:742][  0]LogD3D11RHI:       8011/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.23-21.19.09:745][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.23-21.19.09:745][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.23-21.19.09:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.23-21.19.09:750][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.23-21.19.09:750][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.23-21.19.09:750][  0]LogWindows: EnumDisplayDevices:
+[2021.07.23-21.19.09:750][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.07.23-21.19.09:751][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.07.23-21.19.09:751][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.07.23-21.19.09:751][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.07.23-21.19.09:751][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.23-21.19.09:751][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.07.23-21.19.09:751][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.07.23-21.19.09:751][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.07.23-21.19.09:751][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.07.23-21.19.09:823][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.23-21.19.09:823][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.23-21.19.09:823][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.23-21.19.09:839][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.23-21.19.09:840][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.23-21.19.10:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.23-21.19.10:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.23-21.19.10:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.23-21.19.10:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.23-21.19.10:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.23-21.19.10:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.23-21.19.10:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.23-21.19.10:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.23-21.19.10:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.23-21.19.10:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.23-21.19.10:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.23-21.19.10:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.23-21.19.10:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.23-21.19.10:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.23-21.19.10:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.23-21.19.10:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.23-21.19.10:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.23-21.19.10:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.23-21.19.10:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.23-21.19.10:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.23-21.19.10:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.23-21.19.10:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.23-21.19.10:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.23-21.19.10:305][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.23-21.19.10:311][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.23-21.19.10:361][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.23-21.19.10:361][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../UnrealProjects/APortedStudy/Intermediate/Shaders/WorkingDirectory/6568/).
+[2021.07.23-21.19.10:362][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/janua/AppData/Local/Temp/UnrealShaderWorkingDir/DD3FCB1C40B00C0C9602B4A1DEB5CE2A/'.
+[2021.07.23-21.19.10:362][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.23-21.19.10:362][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.23-21.19.11:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.23-21.19.11:084][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/janua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.23-21.19.11:084][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/janua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.23-21.19.11:114][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/APortedStudy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.23-21.19.11:114][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.23-21.19.11:114][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/APortedStudy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.23-21.19.11:114][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.23-21.19.11:125][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.23-21.19.11:125][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.23-21.19.11:125][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.23-21.19.11:131][  0]LogDerivedDataCache: Speed tests for C:/Users/janua/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.23-21.19.11:131][  0]LogDerivedDataCache: Display: Performance to C:/Users/janua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1391.96MBs, RandomWriteSpeed=206.14MBs. Assigned SpeedClass 'Local'
+[2021.07.23-21.19.11:132][  0]LogDerivedDataCache: Using Local data cache path C:/Users/janua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.23-21.19.11:132][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.23-21.19.11:132][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.23-21.19.11:175][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.23-21.19.11:176][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.23-21.19.11:196][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.07.23-21.19.11:393][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.23-21.19.11:394][  0]LogInit: Active device profile: [0000020B99ED7C00][0000020B928E0D00 49] Windows
+[2021.07.23-21.19.11:394][  0]LogInit: Profiles: [0000020B99ED7C00][0000020B928E0D00 49] Windows, [0000020B99EA0500][0000020B91CD8E80 49] WindowsNoEditor, [0000020B99ED4500][0000020B91CDD000 49] WindowsServer, [0000020B99EA3800][0000020B91CE1180 49] WindowsClient, [0000020B99ED7700][0000020B91CE5300 49] IOS, [0000020B99EA0A00][0000020B91CE9480 49] iPadAir, [0000020B99ED4A00][0000020B91CD55C0 49] iPadAir2, [0000020B99E55400][0000020B91CF1800 49] IPadPro, [0000020B99E55500][0000020B91CED840 49] iPadAir3, [0000020B99ED7600][0000020B91CF5980 49] iPadAir4, [0000020B99E54A00][0000020B91CFDB00 49] iPadMini2, [0000020B99ED4400][0000020B91D01C80 49] iPadMini3, [0000020B99E56100][0000020B91D04140 49] iPadMini4, [0000020B99ED7000][0000020B91D082C0 49] iPadMini5, [0000020B99EA2700][0000020B91D10580 49] iPhone6, [0000020B99EA2600][0000020B91D0C5C0 49] iPodTouch6, [0000020B99E57900][0000020B91D18880 49] iPhone7, [0000020B99E57700][0000020B91D148C0 49] iPodTouch7, [0000020B99EA3F00][0000020B91D1CA40 49] iPhone5S, [0000020B99E57A00][0000020B91D20BC0 49] iPhone6Plus, [0000020B99EA1C00][0000020B91D24D40 49] iPhone6S, [0000020B99E56D00][0000020B91D28EC0 49] iPhone6SPlus, [0000020B99EA3500][0000020B91D2D040 49] iPhone7Plus, [0000020B99E54300][0000020B91D311C0 49] iPhoneSE, [0000020B99EA0600][0000020B9AA87340 49] iPhone8, [0000020B99E54F00][0000020B9AA8B4C0 49] iPhone8Plus, [0000020B99EA2800][0000020B9AA8F640 49] iPhoneX, [0000020B99E57B00][0000020B91CF9780 49] iPhoneXS, [0000020B99EA2200][0000020B9AA938C0 49] iPhoneXSMax, [0000020B99E54E00][0000020B9AA97A00 49] iPhoneXR, [0000020B99EA1D00][0000020B9AA9FB80 49] iPhone11, [0000020B99E56400][0000020B9AAA3D00 49] iPhone11Pro, [0000020B99EA3100][0000020B9AAA61C0 49] iPhone11ProMax, [0000020B99E55F00][0000020B9AAAA340 49] iPhoneSE2, [0000020B99EA3600][0000020B9AAAE4C0 49] iPhone12Mini, [0000020B99E57300][0000020B9AAB2640 49] iPhone12, [0000020B99EA1900][0000020B9AAB67C0 49] iPhone12Pro, [0000020B99E56900][0000020B9AABA940 49] iPhone12ProMax, [0000020B99EA0700][0000020B9AABEAC0 49] iPadPro105, [0000020B99E55100][0000020B9AAC2C40 49] iPadPro129, [0000020B99EA2D00][0000020B9AAC6DC0 49] iPadPro97, [0000020B99E57D00][0000020B9AACAF40 49] iPadPro2_129, [0000020B99EA2100][0000020B9AACF0C0 49] iPad5, [0000020B99E56E00][0000020B9AAD3240 49] iPad6, [0000020B99EA1100][0000020B9AAD73C0 49] iPad7, [0000020B99E54B00][0000020B9AADB540 49] iPad8, [0000020B99EA0900][0000020B9AADF6C0 49] iPadPro11, [0000020B99E57600][0000020B9AA9B800 49] iPadPro2_11, [0000020B99EA2900][0000020B9AAE3940 49] iPadPro3_129, [0000020B99E54400][0000020B9AAE7A80 49] iPadPro4_129, [0000020B99EA1500][0000020B9AAEFC00 49] AppleTV, [0000020B99E57100][0000020B9AAF20C0 49] AppleTV4K, [0000020B99EA1F00][0000020B9AAF6240 49] TVOS, [0000020B99E54600][0000020B9AAFA3C0 49] Mac, [0000020B99EA0400][0000020B9AAFE540 49] MacClient, [0000020B99E55600][0000020B9AB026C0 49] MacNoEditor, [0000020B99EA0B00][0000020B9AB06840 49] MacServer, [0000020B99E55700][0000020B9AB0A9C0 49] Linux, [0000020B99EA1000][0000020B9AB0EB40 49] LinuxNoEditor, [0000020B99E56200][0000020B9AB12CC0 49] LinuxAArch64NoEditor, [0000020B99EA3300][0000020B9AB16E40 49] LinuxClient, [0000020B99E54200][0000020B9AB1AFC0 49] LinuxAArch64Client, [0000020B99EA1E00][0000020B9AB1F140 49] LinuxServer, [0000020B99E57800][0000020B9AB232C0 49] LinuxAArch64Server, [0000020B99EA0E00][0000020B9AB27440 49] Android, [0000020B99F14500][0000020B9AB2B5C0 49] Android_Low, [0000020B99ED7E00][0000020B9AB2F740 49] Android_Mid, [0000020B99F15500][0000020B9AAEB880 49] Android_High, [0000020B99ED5F00][0000020B9AB339C0 49] Android_Default, [0000020B99F14400][0000020B9AB37B00 49] Android_Adreno4xx, [0000020B99ED6200][0000020B9AB3BC40 49] Android_Adreno5xx_Low, [0000020B99F14800][0000020B9AB42100 49] Android_Adreno5xx, [0000020B99ED7100][0000020B9AB46280 49] Android_Adreno6xx, [0000020B99F14E00][0000020B9AB4A400 49] Android_Adreno6xx_Vulkan, [0000020B99ED6300][0000020B9AB4E580 49] Android_Mali_T6xx, [0000020B99F14300][0000020B9AB52700 49] Android_Mali_T7xx, [0000020B99ED4700][0000020B9AB56880 49] Android_Mali_T8xx, [0000020B99F15700][0000020B9AB5AA00 49] Android_Mali_G71, [0000020B99ED5900][0000020B9AB5EB80 49] Android_Mali_G72, [0000020B99F14A00][0000020B9AB62D00 49] Android_Mali_G72_Vulkan, [0000020B99ED6A00][0000020B9AB66E80 49] Android_Mali_G76, [0000020B99F14100][0000020B9AB6B000 49] Android_Mali_G76_Vulkan, [0000020B99ED6400][0000020B9AB6F180 49] Android_Mali_G77, [0000020B99F14600][0000020B9AB73300 49] Android_Mali_G77_Vulkan, [0000020B99ED6600][0000020B9AB77480 49] Android_Vulkan_SM5, [0000020B99EA0100][0000020B9AB7B600 49] Android_PowerVR_G6xxx, [0000020B99E56B00][0000020B9AB7F780 49] Android_PowerVR_GT7xxx, [0000020B99EA3C00][0000020B9AB3F8C0 49] Android_PowerVR_GE8xxx, [0000020B99E54C00][0000020B9AB83A00 49] Android_PowerVR_GM9xxx, [0000020B99EA2400][0000020B9AB87B40 49] Android_PowerVR_GM9xxx_Vulkan, [0000020B99E54700][0000020B9AB8BC80 49] Android_TegraK1, [0000020B99EA3700][0000020B9AB92140 49] Android_Unknown_Vulkan, [0000020B99E57200][0000020B9AB962C0 49] Lumin, [0000020B99EA0300][0000020B9AB9A440 49] Lumin_Desktop, [0000020B99E55B00][0000020B9AB9E5C0 49] HoloLens, 
+[2021.07.23-21.19.11:949][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.23-21.19.11:949][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.23-21.19.11:949][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.23-21.19.11:949][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.23-21.19.11:949][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.23-21.19.11:972][  0]LogNetVersion: APortedStudy 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4104726054)
+[2021.07.23-21.19.12:342][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.23-21.19.12:770][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.428499 seconds
+[2021.07.23-21.19.12:781][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.07.23-21.19.12:781][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.07.23-21.19.12:781][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.23-21.19.13:123][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.23-21.19.13:127][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.23-21.19.16:674][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.856 s
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: 
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1826]
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: Stack: 
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa8afd4d29 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa89a6c7ff UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffae28f6a6f UE4Editor-APortedStudy-1871.dll!AMemoryGrid::AMemoryGrid() [D:\UnrealProjects\APortedStudy\Source\APortedStudy\MemoryGrid.cpp:23]
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffaaa7fc2a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffaaaabfb4f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffaaaaa290f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffaaa9d2345 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa8c769aba UE4Editor-Core.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa8c791388 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffae301e7d3 UE4Editor-Projects.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ffae301eaeb UE4Editor-Projects.dll!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603cd53d2 UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603cd8a92 UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:674][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603cd0f1c UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603cd128a UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603ce52ed UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603ce801a UE4Editor.exe!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: [Callstack] 0x00007ffafbc27034 KERNEL32.DLL!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: [Callstack] 0x00007ffafdb42651 ntdll.dll!UnknownFunction []
+[2021.07.23-21.19.16:675][  0]LogOutputDevice: Error: 
+[2021.07.23-21.19.16:728][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2021.07.23-21.19.17:725][  0]LogStats:                    SendNewReport -  0.996 s
+[2021.07.23-21.19.17:725][  0]LogStats:             FDebug::EnsureFailed -  3.906 s
+[2021.07.23-21.19.17:951][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.17:952][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.17:963][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.17:980][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.17:984][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.17:990][  0]LogUProjectInfo: Found projects:
+[2021.07.23-21.19.18:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.23-21.19.18:219][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.23-21.19.18:219][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.23-21.19.18:260][  0]LogCollectionManager: Loaded 0 collections in 0.000565 seconds
+[2021.07.23-21.19.18:281][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/APortedStudy/Saved/Collections/' took 0.00s
+[2021.07.23-21.19.18:281][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/APortedStudy/Content/Developers/janua/Collections/' took 0.00s
+[2021.07.23-21.19.18:281][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/APortedStudy/Content/Collections/' took 0.00s
+[2021.07.23-21.19.18:281][  0]LogOcInput: OculusInput pre-init called
+[2021.07.23-21.19.18:289][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.23-21.19.18:289][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.23-21.19.18:384][  0]LogEngine: Initializing Engine...
+[2021.07.23-21.19.18:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.23-21.19.18:430][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.23-21.19.18:433][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.23-21.19.18:554][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.23-21.19.18:560][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.23-21.19.18:573][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.23-21.19.18:577][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.23-21.19.18:577][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-21.19.18:577][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-21.19.18:577][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-21.19.18:577][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-21.19.18:588][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-21.19.18:588][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-21.19.18:615][  0]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.07.23-21.19.18:618][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-21.19.18:619][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-21.19.18:619][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-21.19.18:620][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-21.19.18:620][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-21.19.18:620][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-21.19.18:622][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-21.19.18:622][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-21.19.18:622][  0]LogInit: FAudioDevice initialized.
+[2021.07.23-21.19.18:622][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.23-21.19.18:622][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.23-21.19.18:863][  0]LogDerivedDataCache: Saved boot cache 0.24s 77MB C:/Users/janua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.23-21.19.18:868][  0]LogInit: Texture streaming: Enabled
+[2021.07.23-21.19.18:898][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.07.23-21.19.18:905][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.23-21.19.18:905][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.23-21.19.18:909][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.23-21.19.18:937][  0]LogInit: Transaction tracking system initialized
+[2021.07.23-21.19.18:954][  0]BlueprintLog: New page: Editor Load
+[2021.07.23-21.19.19:009][  0]LocalizationService: Localization service is disabled
+[2021.07.23-21.19.19:051][  0]TimingProfiler: Initialize
+[2021.07.23-21.19.19:052][  0]TimingProfiler: OnSessionChanged
+[2021.07.23-21.19.19:052][  0]LoadingProfiler: Initialize
+[2021.07.23-21.19.19:052][  0]LoadingProfiler: OnSessionChanged
+[2021.07.23-21.19.19:052][  0]NetworkingProfiler: Initialize
+[2021.07.23-21.19.19:052][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.23-21.19.19:052][  0]MemoryProfiler: Initialize
+[2021.07.23-21.19.19:053][  0]MemoryProfiler: OnSessionChanged
+[2021.07.23-21.19.19:274][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.23-21.19.19:274][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.23-21.19.19:391][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/APortedStudy/Content/' took 0.11s
+[2021.07.23-21.19.19:552][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.23-21.19.19:554][  0]SourceControl: Source control is disabled
+[2021.07.23-21.19.19:554][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.561
+[2021.07.23-21.19.19:555][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.23-21.19.19:555][  0]LightingResults: New page: Lighting Build
+[2021.07.23-21.19.19:555][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-21.19.19:555][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-21.19.19:555][  0]MapCheck: New page: Map Check
+[2021.07.23-21.19.19:555][  0]LightingResults: New page: Lighting Build
+[2021.07.23-21.19.19:561][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.23-21.19.19:610][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.23-21.19.19:616][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.07.23-21.19.19:617][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.07.23-21.19.19:620][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.23-21.19.19:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.23-21.19.19:626][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.23-21.19.19:626][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2021.07.23-21.19.19:626][  0]LogFileHelpers: Loading map 'Template_Default' took 0.071
+[2021.07.23-21.19.20:502][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.508
+[2021.07.23-21.19.21:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-21.19.21:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-21.19.21:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-21.19.21:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-21.19.21:375][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0166 seconds. Added 3613 classes and 861 folders.
+[2021.07.23-21.19.21:440][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.07.23-21.19.21:594][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-21.19.21:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-21.19.21:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.23-21.19.21:611][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.23-21.19.21:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.23-21.19.21:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.07.23-21.19.21:623][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.23-21.19.21:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.23-21.19.21:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.23-21.19.21:638][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-21.19.21:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-21.19.21:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.23-21.19.21:644][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.23-21.19.21:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:644][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.23-21.19.21:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.23-21.19.21:649][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.23-21.19.21:649][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:649][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.23-21.19.21:650][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.23-21.19.21:655][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.23-21.19.21:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.23-21.19.21:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.23-21.19.21:667][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.23-21.19.21:667][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:667][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.23-21.19.21:667][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.07.23-21.19.21:701][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-21.19.21:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-21.19.21:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.07.23-21.19.21:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.23-21.19.21:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.23-21.19.21:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.07.23-21.19.21:718][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.23-21.19.21:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.23-21.19.21:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.07.23-21.19.21:771][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-21.19.21:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-21.19.21:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.07.23-21.19.21:782][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-21.19.21:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-21.19.21:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.07.23-21.19.21:791][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-21.19.21:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-21.19.21:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.07.23-21.19.21:797][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.23-21.19.21:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.23-21.19.21:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.07.23-21.19.21:826][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-21.19.21:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-21.19.21:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.07.23-21.19.21:848][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.23-21.19.21:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.23-21.19.21:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.07.23-21.19.21:859][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-21.19.21:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-21.19.21:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.07.23-21.19.21:867][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-21.19.21:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-21.19.21:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.07.23-21.19.21:875][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-21.19.21:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-21.19.21:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.07.23-21.19.21:894][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-21.19.21:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-21.19.21:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.07.23-21.19.21:903][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-21.19.21:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-21.19.21:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.07.23-21.19.21:910][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.23-21.19.21:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.23-21.19.21:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.07.23-21.19.21:922][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-21.19.21:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-21.19.21:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.07.23-21.19.21:928][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-21.19.21:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-21.19.21:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2021.07.23-21.19.21:945][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.23-21.19.21:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-21.19.21:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.23-21.19.21:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2021.07.23-21.19.22:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.23-21.19.22:827][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.07.23-21.19.23:514][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.23-21.19.23:516][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.23-21.19.23:568][  0]LogSlate: Took 0.020885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.23-21.19.23:973][  0]LogRenderer: Reallocating scene render targets to support 1204x668 Format 10 NumSamples 1 (Frame:1).
+[2021.07.23-21.19.24:286][  0]LogSlate: Took 0.029883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.23-21.19.24:393][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.07.23-21.19.24:393][  0]LogLoad: (Engine Initialization) Total time: 16.40 seconds
+[2021.07.23-21.19.24:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.23-21.19.24:393][  0]LogInit: First time updating LLM stats...
+[2021.07.23-21.19.24:509][  0]LogAssetRegistry: Asset discovery search completed in 13.3149 seconds
+[2021.07.23-21.19.24:511][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.23-21.19.24:528][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.23-21.20.42:115][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.07.23-21.20.42:135][631]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.23-21.20.42:473][631]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Untitled.Untitled
+[2021.07.23-21.20.42:474][631]Cmd: MAP LOAD FILE="../../../../UnrealProjects/APortedStudy/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.23-21.20.42:474][631]LightingResults: New page: Lighting Build
+[2021.07.23-21.20.42:474][631]LoadErrors: New page: Loading map: Untitled.umap
+[2021.07.23-21.20.42:474][631]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-21.20.42:474][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-21.20.42:474][631]MapCheck: New page: Map Check
+[2021.07.23-21.20.42:474][631]LightingResults: New page: Lighting Build
+[2021.07.23-21.20.42:479][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-21.20.42:481][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.23-21.20.42:481][631]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.23-21.20.42:636][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.23-21.20.42:636][631]LogAIModule: Creating AISystem for world Untitled
+[2021.07.23-21.20.42:664][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.23-21.20.42:673][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.23-21.20.42:673][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.07.23-21.20.42:673][631]LogFileHelpers: Loading map 'Untitled' took 0.199
+[2021.07.23-21.21.54:968][463]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.07.23-21.21.55:044][463]Candidate modules for hot reload:
+[2021.07.23-21.21.55:044][463]  APortedStudy
+[2021.07.23-21.21.55:044][463]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,599 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-21.21.55:057][463]Warning: Starting HotReload took  0.1s.
+[2021.07.23-21.25.41:217][550]CompilerResultsLog: New page: Compilation - 23 Jul 2021, 23:25:41
+[2021.07.23-21.25.41:217][550]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-21.25.41:217][550]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-21.25.41:217][550]CompilerResultsLog: Building 4 actions with 6 processes...
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:   [1/4] PlayerCharacter.cpp
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1467) : error C2338: The given OwningObject is not of a supported type for use with CreateWidget.
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(41): note: see reference to function template instantiation 'WidgetT *CreateWidget<UInGameUI,AController>(OwnerT *,TSubclassOf<UUserWidget>,FName)' being compiled
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:           with
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:           [
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:               WidgetT=UInGameUI,
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:           ]
+[2021.07.23-21.25.41:217][550]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473) : error C2665: 'UUserWidget::CreateWidgetInstance': none of the 5 overloads could convert all the argument types
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1132): note: could be 'UUserWidget *UUserWidget::CreateWidgetInstance(UWorld &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1131): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UGameInstance &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1130): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(APlayerController &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1129): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidgetTree &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1128): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidget &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473): note: while trying to match the argument list '(OwnerT, TSubclassOf<UUserWidget>, FName)'
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:           with
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:           [
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-21.25.41:218][550]CompilerResultsLog:           ]
+[2021.07.23-21.25.41:218][550]LogMainFrame: MainFrame: Module compiling took 226.249 seconds
+[2021.07.23-21.25.41:273][550]Warning: HotReload failed, recompile failed
+[2021.07.23-21.58.17:475][232]Candidate modules for hot reload:
+[2021.07.23-21.58.17:475][232]  APortedStudy
+[2021.07.23-21.58.17:475][232]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,833 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-21.58.17:478][232]Warning: Starting HotReload took  0.0s.
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: New page: Compilation - 23 Jul 2021, 23:59:36
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (APortedStudyGameModeBase.cpp modified)
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Parsing headers for APortedStudyEditor
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\APortedStudy\APortedStudy.uproject" "D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\APortedStudyEditor\Development\APortedStudyEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\janua\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Reflection code generated for APortedStudyEditor in 25.885429 seconds
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-21.59.36:907][478]CompilerResultsLog: Building 7 actions with 6 processes...
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:   [1/7] APortedStudyGameModeBase.cpp
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\APortedStudyGameModeBase.cpp(22) : error C2065: 'MenuClass': undeclared identifier
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:   [2/7] PlayerCharacter.cpp
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:   [3/7] MemoryGrid.cpp
+[2021.07.23-21.59.36:907][478]CompilerResultsLog:   [4/7] APortedStudyGameModeBase.gen.cpp
+[2021.07.23-21.59.36:907][478]LogMainFrame: MainFrame: Module compiling took 79.436 seconds
+[2021.07.23-21.59.36:908][478]Warning: HotReload failed, recompile failed
+[2021.07.23-21.59.44:194][615]LogSlate: Took 0.056435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.23-22.00.17:039][347]Candidate modules for hot reload:
+[2021.07.23-22.00.17:039][347]  APortedStudy
+[2021.07.23-22.00.17:040][347]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,9270 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-22.00.17:043][347]Warning: Starting HotReload took  0.0s.
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 00:00:42
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Parsing headers for APortedStudyEditor
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\APortedStudy\APortedStudy.uproject" "D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\APortedStudyEditor\Development\APortedStudyEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\janua\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Reflection code generated for APortedStudyEditor in 3.9999821 seconds
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Building 7 actions with 6 processes...
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [1/7] PlayerCharacter.cpp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [2/7] APortedStudyGameModeBase.gen.cpp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [3/7] MemoryGrid.cpp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [4/7] APortedStudyGameModeBase.cpp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [5/7] UE4Editor-APortedStudy-9270.lib
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-9270.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-9270.exp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [6/7] UE4Editor-APortedStudy-9270.dll
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-9270.suppressed.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-9270.suppressed.exp
+[2021.07.23-22.00.42:816][680]CompilerResultsLog:   [7/7] APortedStudyEditor.target
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Total time in Parallel executor: 20.91 seconds
+[2021.07.23-22.00.42:816][680]CompilerResultsLog: Total execution time: 25.58 seconds
+[2021.07.23-22.00.42:816][680]LogMainFrame: MainFrame: Module compiling took 25.780 seconds
+[2021.07.23-22.00.42:930][680]LogClass: Could not find existing class APortedStudyGameModeBase in package /Script/APortedStudy for HotReload, assuming new class
+[2021.07.23-22.00.42:960][680]LogClass: Could not find existing class PlayerCharacter in package /Script/APortedStudy for HotReload, assuming new class
+[2021.07.23-22.00.42:960][680]LogClass: Function OnOverlapBegin is new.
+[2021.07.23-22.00.42:960][680]LogClass: Function OnOverlapEnd is new.
+[2021.07.23-22.00.42:961][680]LogClass: GridStatus HotReload.
+[2021.07.23-22.00.42:977][680]LogLinker: Warning: Failed to load '/Game/UI/InGameUI': Can't find file.
+[2021.07.23-22.00.42:977][680]LogLinker: Warning: Failed to load '/Game/UI/InGameUI': Can't find file.
+[2021.07.23-22.00.42:977][680]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/UI/InGameUI.InGameUI_C'
+[2021.07.23-22.00.42:977][680]Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-22.00.42:977][680]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2021.07.23-22.00.42:977][680]LogUObjectBase: Warning: Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-22.01.15:569][680]LogSlate: Window 'Message' being destroyed
+[2021.07.23-22.01.15:574][680]Message dialog closed, result: Ok, title: Message, text: Default Property warnings and errors:
+Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+
+[2021.07.23-22.01.15:576][680]LogHotReload: Re-instancing APortedStudyGameModeBase after hot-reload.
+[2021.07.23-22.01.15:635][680]LogHotReload: Re-instancing PlayerCharacter after hot-reload.
+[2021.07.23-22.01.15:688][680]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'APortedStudy' in 0.0003 seconds. Added 12 classes and 2 folders.
+[2021.07.23-22.01.15:689][680]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.07.23-22.01.16:261][680]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0332 seconds. Added 3613 classes and 861 folders.
+[2021.07.23-22.01.16:323][680]Display: HotReload took 59.3s.
+[2021.07.23-22.01.20:473][146]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-22.01.20:531][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-22.01.20:561][146]PIE: New page: PIE session: Untitled (24 Jul 2021, 00:01:20)
+[2021.07.23-22.01.20:573][146]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.23-22.01.20:589][146]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.23-22.01.20:591][146]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2021.07.23-22.01.20:646][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055446s)
+[2021.07.23-22.01.20:659][146]LogAIModule: Creating AISystem for world Untitled
+[2021.07.23-22.01.20:713][146]LogPlayLevel: PIE: World Init took: (0.066199s)
+[2021.07.23-22.01.20:713][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.122373s)
+[2021.07.23-22.01.20:723][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.23-22.01.20:725][146]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-22.01.20:725][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-22.01.20:725][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-22.01.20:726][146]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-22.01.20:726][146]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-22.01.20:728][146]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-22.01.20:728][146]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-22.01.20:745][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-22.01.20:745][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-22.01.20:758][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-22.01.20:758][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-22.01.20:758][146]LogInit: FAudioDevice initialized.
+[2021.07.23-22.01.20:758][146]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled'.
+[2021.07.23-22.01.20:796][146]LogLoad: Game class is 'APortedStudyGameModeBase'
+[2021.07.23-22.01.20:796][146]Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-22.01.20:980][146]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2021.07.23-23.01.20
+[2021.07.23-22.01.21:216][146]LogWorld: Bringing up level for play took: 0.263315
+[2021.07.23-22.01.21:218][146]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.07.23-22.01.21:489][146]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2021.07.23-22.01.21:614][146]PIE: Server logged in
+[2021.07.23-22.01.21:690][146]PIE: Play in editor total start time 1.205 seconds.
+[2021.07.23-22.01.23:843][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-22.01.23:843][353]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2021.07.23-22.01.23:870][353]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-22.01.23:871][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-22.01.23:927][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-22.01.23:949][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-22.01.23:958][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-22.01.23:959][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-22.01.23:959][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-22.01.23:973][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-22.01.23:976][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.07.23-22.01.23:989][354]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.07.23-22.01.25:645][547]Candidate modules for hot reload:
+[2021.07.23-22.01.25:645][547]  APortedStudy
+[2021.07.23-22.01.25:645][547]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,2582 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-22.01.25:649][547]Warning: Starting HotReload took  0.0s.
+[2021.07.23-22.01.27:463][639]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 00:01:27
+[2021.07.23-22.01.27:464][639]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-22.01.27:464][639]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-22.01.27:464][639]CompilerResultsLog: Building 3 actions with 6 processes...
+[2021.07.23-22.01.27:464][639]CompilerResultsLog:   [1/3] UE4Editor-APortedStudy-2582.lib
+[2021.07.23-22.01.27:464][639]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-2582.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-2582.exp
+[2021.07.23-22.01.27:464][639]CompilerResultsLog:   [2/3] UE4Editor-APortedStudy-2582.dll
+[2021.07.23-22.01.27:464][639]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-2582.suppressed.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-2582.suppressed.exp
+[2021.07.23-22.01.27:464][639]CompilerResultsLog:   [3/3] APortedStudyEditor.target
+[2021.07.23-22.01.27:464][639]CompilerResultsLog: Total time in Parallel executor: 1.07 seconds
+[2021.07.23-22.01.27:464][639]CompilerResultsLog: Total execution time: 1.68 seconds
+[2021.07.23-22.01.27:464][639]LogMainFrame: MainFrame: Module compiling took 1.822 seconds
+[2021.07.23-22.01.27:485][639]LogClass: GridStatus HotReload.
+[2021.07.23-22.01.27:486][639]Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-22.01.27:492][639]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'APortedStudy' in 0.0002 seconds. Added 12 classes and 2 folders.
+[2021.07.23-22.01.27:492][639]Warning: Some classes could not be reloaded:
+Error: CDO Constructor (APortedStudyGameModeBase): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+
+[2021.07.23-22.01.27:493][639]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2021.07.23-22.01.27:520][639]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3613 classes and 861 folders.
+[2021.07.23-22.01.27:523][639]Display: HotReload took  1.9s.
+[2021.07.23-22.01.50:911][763]Candidate modules for hot reload:
+[2021.07.23-22.01.50:911][763]  APortedStudy
+[2021.07.23-22.01.50:911][763]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,2546 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-22.01.50:914][763]Warning: Starting HotReload took  0.0s.
+[2021.07.23-22.01.58:220][793]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 00:01:58
+[2021.07.23-22.01.58:221][793]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (APortedStudyGameModeBase.cpp modified)
+[2021.07.23-22.01.58:221][793]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-22.01.58:221][793]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-22.01.58:221][793]CompilerResultsLog: Building 5 actions with 6 processes...
+[2021.07.23-22.01.58:221][793]CompilerResultsLog:   [1/5] APortedStudyGameModeBase.cpp
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\APortedStudyGameModeBase.cpp(45) : error C2039: 'GetController': is not a member of 'AAPortedStudyGameModeBase'
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\APortedStudyGameModeBase.h(15): note: see declaration of 'AAPortedStudyGameModeBase'
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\APortedStudyGameModeBase.cpp(45) : error C2672: 'CreateWidget': no matching overloaded function found
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:   [2/5] PlayerCharacter.cpp
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1467) : error C2338: The given OwningObject is not of a supported type for use with CreateWidget.
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(39): note: see reference to function template instantiation 'WidgetT *CreateWidget<UInGameUI,AController>(OwnerT *,TSubclassOf<UUserWidget>,FName)' being compiled
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:           with
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:           [
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:               WidgetT=UInGameUI,
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:           ]
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473) : error C2665: 'UUserWidget::CreateWidgetInstance': none of the 5 overloads could convert all the argument types
+[2021.07.23-22.01.58:222][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1132): note: could be 'UUserWidget *UUserWidget::CreateWidgetInstance(UWorld &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1131): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UGameInstance &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1130): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(APlayerController &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1129): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidgetTree &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1128): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidget &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473): note: while trying to match the argument list '(OwnerT, TSubclassOf<UUserWidget>, FName)'
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:           with
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:           [
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-22.01.58:223][793]CompilerResultsLog:           ]
+[2021.07.23-22.01.58:223][793]LogMainFrame: MainFrame: Module compiling took 7.317 seconds
+[2021.07.23-22.01.58:223][793]Warning: HotReload failed, recompile failed
+[2021.07.23-22.02.35:420][601]Candidate modules for hot reload:
+[2021.07.23-22.02.35:420][601]  APortedStudy
+[2021.07.23-22.02.35:420][601]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,1438 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-22.02.35:423][601]Warning: Starting HotReload took  0.0s.
+[2021.07.23-22.02.43:672][721]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 00:02:43
+[2021.07.23-22.02.43:672][721]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (APortedStudyGameModeBase.cpp modified)
+[2021.07.23-22.02.43:672][721]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-22.02.43:672][721]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-22.02.43:672][721]CompilerResultsLog: Building 5 actions with 6 processes...
+[2021.07.23-22.02.43:672][721]CompilerResultsLog:   [1/5] PlayerCharacter.cpp
+[2021.07.23-22.02.43:672][721]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1467) : error C2338: The given OwningObject is not of a supported type for use with CreateWidget.
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(39): note: see reference to function template instantiation 'WidgetT *CreateWidget<UInGameUI,AController>(OwnerT *,TSubclassOf<UUserWidget>,FName)' being compiled
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           with
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           [
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:               WidgetT=UInGameUI,
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           ]
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473) : error C2665: 'UUserWidget::CreateWidgetInstance': none of the 5 overloads could convert all the argument types
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1132): note: could be 'UUserWidget *UUserWidget::CreateWidgetInstance(UWorld &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1131): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UGameInstance &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1130): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(APlayerController &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1129): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidgetTree &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1128): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidget &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473): note: while trying to match the argument list '(OwnerT, TSubclassOf<UUserWidget>, FName)'
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           with
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           [
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:           ]
+[2021.07.23-22.02.43:673][721]CompilerResultsLog:   [2/5] APortedStudyGameModeBase.cpp
+[2021.07.23-22.02.43:673][721]LogMainFrame: MainFrame: Module compiling took 8.257 seconds
+[2021.07.23-22.02.43:673][721]Warning: HotReload failed, recompile failed
+[2021.07.23-22.25.47:106][808]Candidate modules for hot reload:
+[2021.07.23-22.25.47:106][808]  APortedStudy
+[2021.07.23-22.25.47:106][808]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,8085 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-22.25.47:289][808]Warning: Starting HotReload took  0.2s.
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 00:26:48
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (APortedStudyGameModeBase.cpp modified)
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Parsing headers for APortedStudyEditor
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\APortedStudy\APortedStudy.uproject" "D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\APortedStudyEditor\Development\APortedStudyEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\janua\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Reflection code generated for APortedStudyEditor in 16.504314 seconds
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-22.26.48:832][240]CompilerResultsLog: Building 13 actions with 6 processes...
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   [1/13] MemoryGrid.cpp
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   [2/13] APortedStudyGameModeBase.cpp
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\APortedStudyGameModeBase.cpp(46) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   [3/13] APortedStudy.init.gen.cpp
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:   [4/13] APortedStudyGameModeBase.gen.cpp
+[2021.07.23-22.26.48:832][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   [5/13] PlayerCharacter.cpp
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(36) : error C2039: 'GetCapsuleComponent': is not a member of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(12): note: see declaration of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(41) : error C2039: 'GetController': is not a member of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(12): note: see declaration of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(41) : error C2672: 'CreateWidget': no matching overloaded function found
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(49) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(49) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(49) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(49) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(57) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(57) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(57) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(57) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(64) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(64) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(64) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(64) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(73) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(73) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(73) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(73) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(99) : error C2248: 'AController::SetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::SetActorLocation'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(132) : error C2039: 'AddMovementInput': is not a member of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(12): note: see declaration of 'APlayerCharacter'
+[2021.07.23-22.26.48:833][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(132) : error C2248: 'AController::GetActorForwardVector': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorForwardVector'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(139) : error C2039: 'AddMovementInput': is not a member of 'APlayerCharacter'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(12): note: see declaration of 'APlayerCharacter'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(139) : error C2248: 'AController::GetActorRightVector': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorRightVector'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(13): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(151) : error C2039: 'SetupPlayerInputComponent': is not a member of 'APlayerController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h(11): note: see declaration of 'APlayerController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   [6/13] GameCamera.cpp
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   [7/13] PlayerCharacter.gen.cpp
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy/PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   [8/13] EnemyController.cpp
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   [9/13] Enemy.cpp
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\Enemy.cpp(61) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\Enemy.cpp(62) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\Enemy.cpp(67) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\Enemy.cpp(77) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\Enemy.cpp(125) : error C2248: 'AController::GetActorLocation': cannot access private member declared in class 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(400): note: see declaration of 'AController::GetActorLocation'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h(46): note: see declaration of 'AController'
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:   [10/13] Enemy.gen.cpp
+[2021.07.23-22.26.48:834][240]CompilerResultsLog:    D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.h(57) : error C3668: 'APlayerCharacter::SetupPlayerInputComponent': method with override specifier 'override' did not override any base class methods
+[2021.07.23-22.26.48:834][240]LogMainFrame: MainFrame: Module compiling took 61.731 seconds
+[2021.07.23-22.26.48:834][240]Warning: HotReload failed, recompile failed
+[2021.07.23-23.02.19:915][335]Candidate modules for hot reload:
+[2021.07.23-23.02.19:915][335]  APortedStudy
+[2021.07.23-23.02.19:915][335]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,2308 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-23.02.19:932][335]Warning: Starting HotReload took  0.0s.
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 01:02:42
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: Parsing headers for APortedStudyEditor
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\APortedStudy\APortedStudy.uproject" "D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\APortedStudyEditor\Development\APortedStudyEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\janua\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: Reflection code generated for APortedStudyEditor in 4.725199 seconds
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-23.02.42:782][415]CompilerResultsLog: Building 12 actions with 6 processes...
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:   [1/12] PlayerCharacter.cpp
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1467) : error C2338: The given OwningObject is not of a supported type for use with CreateWidget.
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(41): note: see reference to function template instantiation 'WidgetT *CreateWidget<UInGameUI,AController>(OwnerT *,TSubclassOf<UUserWidget>,FName)' being compiled
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:           with
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:           [
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:               WidgetT=UInGameUI,
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:           ]
+[2021.07.23-23.02.42:782][415]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473) : error C2665: 'UUserWidget::CreateWidgetInstance': none of the 5 overloads could convert all the argument types
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1132): note: could be 'UUserWidget *UUserWidget::CreateWidgetInstance(UWorld &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1131): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UGameInstance &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1130): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(APlayerController &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1129): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidgetTree &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1128): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidget &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473): note: while trying to match the argument list '(OwnerT, TSubclassOf<UUserWidget>, FName)'
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:           with
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:           [
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:               OwnerT=AController
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:           ]
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [2/12] APortedStudyGameModeBase.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [3/12] GameCamera.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [4/12] MemoryGrid.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [5/12] APortedStudyGameModeBase.gen.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [6/12] EnemyController.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [7/12] Enemy.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [8/12] PlayerCharacter.gen.cpp
+[2021.07.23-23.02.42:783][415]CompilerResultsLog:   [9/12] Enemy.gen.cpp
+[2021.07.23-23.02.42:783][415]LogMainFrame: MainFrame: Module compiling took 22.870 seconds
+[2021.07.23-23.02.42:783][415]Warning: HotReload failed, recompile failed
+[2021.07.23-23.03.09:713][114]Candidate modules for hot reload:
+[2021.07.23-23.03.09:714][114]  APortedStudy
+[2021.07.23-23.03.09:714][114]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,5902 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-23.03.09:717][114]Warning: Starting HotReload took  0.0s.
+[2021.07.23-23.03.16:170][136]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 01:03:16
+[2021.07.23-23.03.16:170][136]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (PlayerCharacter.cpp modified)
+[2021.07.23-23.03.16:170][136]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-23.03.16:170][136]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-23.03.16:170][136]CompilerResultsLog: Building 5 actions with 6 processes...
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   [1/5] APortedStudy.init.gen.cpp
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   [2/5] PlayerCharacter.cpp
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1467) : error C2338: The given OwningObject is not of a supported type for use with CreateWidget.
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UnrealProjects\APortedStudy\Source\APortedStudy\PlayerCharacter.cpp(41): note: see reference to function template instantiation 'WidgetT *CreateWidget<UInGameUI,APlayerCharacter>(OwnerT *,TSubclassOf<UUserWidget>,FName)' being compiled
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           with
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           [
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:               WidgetT=UInGameUI,
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:               OwnerT=APlayerCharacter
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           ]
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:    D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473) : error C2665: 'UUserWidget::CreateWidgetInstance': none of the 5 overloads could convert all the argument types
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1132): note: could be 'UUserWidget *UUserWidget::CreateWidgetInstance(UWorld &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1131): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UGameInstance &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1130): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(APlayerController &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1129): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidgetTree &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1128): note: or       'UUserWidget *UUserWidget::CreateWidgetInstance(UWidget &,TSubclassOf<UUserWidget>,FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:   D:\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h(1473): note: while trying to match the argument list '(OwnerT, TSubclassOf<UUserWidget>, FName)'
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           with
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           [
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:               OwnerT=APlayerCharacter
+[2021.07.23-23.03.16:170][136]CompilerResultsLog:           ]
+[2021.07.23-23.03.16:170][136]LogMainFrame: MainFrame: Module compiling took 6.460 seconds
+[2021.07.23-23.03.16:170][136]Warning: HotReload failed, recompile failed
+[2021.07.23-23.03.48:154][ 92]Candidate modules for hot reload:
+[2021.07.23-23.03.48:154][ 92]  APortedStudy
+[2021.07.23-23.03.48:154][ 92]Launching UnrealBuildTool... [D:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=APortedStudy,6167 APortedStudyEditor Win64 Development -Project="D:/UnrealProjects/APortedStudy/APortedStudy.uproject" "D:/UnrealProjects/APortedStudy/APortedStudy.uproject"  -IgnoreJunk]
+[2021.07.23-23.03.48:157][ 92]Warning: Starting HotReload took  0.0s.
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: New page: Compilation - 24 Jul 2021, 01:03:56
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Invalidating makefile for APortedStudyEditor (PlayerCharacter.cpp modified)
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Building APortedStudyEditor...
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Using Visual Studio 2019 14.28.29337 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Building 4 actions with 6 processes...
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:   [1/4] PlayerCharacter.cpp
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:   [2/4] UE4Editor-APortedStudy-6167.lib
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-6167.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-6167.exp
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:   [3/4] UE4Editor-APortedStudy-6167.dll
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:      Creating library D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-6167.suppressed.lib and object D:\UnrealProjects\APortedStudy\Intermediate\Build\Win64\UE4Editor\Development\APortedStudy\UE4Editor-APortedStudy-6167.suppressed.exp
+[2021.07.23-23.03.56:279][119]CompilerResultsLog:   [4/4] APortedStudyEditor.target
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Total time in Parallel executor: 6.01 seconds
+[2021.07.23-23.03.56:279][119]CompilerResultsLog: Total execution time: 7.82 seconds
+[2021.07.23-23.03.56:279][119]LogMainFrame: MainFrame: Module compiling took 8.129 seconds
+[2021.07.23-23.03.56:313][119]LogClass: Could not find existing class APortedStudyGameModeBase in package /Script/APortedStudy for HotReload, assuming new class
+[2021.07.23-23.03.56:317][119]LogClass: GridStatus HotReload.
+[2021.07.23-23.03.56:320][119]LogHotReload: Re-instancing APortedStudyGameModeBase after hot-reload.
+[2021.07.23-23.03.56:329][119]Error: CDO Constructor (PlayerCharacter): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-23.03.56:331][119]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'APortedStudy' in 0.0003 seconds. Added 12 classes and 2 folders.
+[2021.07.23-23.03.56:331][119]Warning: Some classes could not be reloaded:
+Error: CDO Constructor (PlayerCharacter): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+
+[2021.07.23-23.03.56:332][119]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2021.07.23-23.03.56:361][119]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3613 classes and 861 folders.
+[2021.07.23-23.03.56:364][119]Display: HotReload took  8.2s.
+[2021.07.23-23.04.26:300][261]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-23.04.26:305][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-23.04.26:306][261]PIE: New page: PIE session: Untitled (24 Jul 2021, 01:04:26)
+[2021.07.23-23.04.26:306][261]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2021.07.23-23.04.26:314][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008587s)
+[2021.07.23-23.04.26:315][261]LogAIModule: Creating AISystem for world Untitled
+[2021.07.23-23.04.26:316][261]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2021.07.23-23.04.26:316][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.009922s)
+[2021.07.23-23.04.26:320][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.23-23.04.26:321][261]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-23.04.26:321][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-23.04.26:321][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-23.04.26:322][261]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-23.04.26:322][261]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-23.04.26:380][261]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-23.04.26:380][261]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-23.04.26:391][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-23.04.26:391][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-23.04.26:403][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-23.04.26:403][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-23.04.26:403][261]LogInit: FAudioDevice initialized.
+[2021.07.23-23.04.26:403][261]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2021.07.23-23.04.26:411][261]LogLoad: Game class is 'APortedStudyGameModeBase'
+[2021.07.23-23.04.26:413][261]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2021.07.24-00.04.26
+[2021.07.23-23.04.26:413][261]LogWorld: Bringing up level for play took: 0.001364
+[2021.07.23-23.04.26:413][261]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.23-23.04.26:415][261]Error: CDO Constructor (MainPlayer_C): Failed to find /Game/UI/InGameUI.InGameUI_C
+
+[2021.07.23-23.04.26:433][261]PIE: Error: CreateWidget called with a null class.
