@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\WorkSamples\\unreal engine C++\\A study in secrecy\\APortedStudy\\Source\\APortedStudy\\APortedStudy.Build.cs",
+		"D:\\WorkSamples\\unreal engine C++\\A study in secrecy\\APortedStudy\\Source\\APortedStudy.Target.cs",
+		"D:\\WorkSamples\\unreal engine C++\\A study in secrecy\\APortedStudy\\Source\\APortedStudyEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

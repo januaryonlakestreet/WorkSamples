@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "APortedStudy",
+			"Path": "D:\\WorkSamples\\unreal engine C++\\A study in secrecy\\APortedStudy\\Source\\APortedStudy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "APortedStudyEditor",
+			"Path": "D:\\WorkSamples\\unreal engine C++\\A study in secrecy\\APortedStudy\\Source\\APortedStudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
