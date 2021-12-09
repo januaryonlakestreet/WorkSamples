@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\WorkSamples\\unreal engine C++\\IsoRogueLike\\Source\\IsoRogueLike\\IsoRogueLike.Build.cs",
+		"D:\\WorkSamples\\unreal engine C++\\IsoRogueLike\\Source\\IsoRogueLike.Target.cs",
+		"D:\\WorkSamples\\unreal engine C++\\IsoRogueLike\\Source\\IsoRogueLikeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

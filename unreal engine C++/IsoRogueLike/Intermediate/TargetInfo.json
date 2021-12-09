@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IsoRogueLike",
+			"Path": "D:\\WorkSamples\\unreal engine C++\\IsoRogueLike\\Source\\IsoRogueLike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IsoRogueLikeEditor",
+			"Path": "D:\\WorkSamples\\unreal engine C++\\IsoRogueLike\\Source\\IsoRogueLikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
