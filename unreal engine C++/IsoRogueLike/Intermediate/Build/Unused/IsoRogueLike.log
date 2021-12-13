@@ -1,0 +1,4 @@
+﻿  Creating makefile for IsoRogueLike (no existing makefile)
+UnrealBuildTool : error : Unable to instantiate module 'UnrealEd': Unable to instantiate UnrealEd module for non-editor targets.
+                          (referenced via Target -> IsoRogueLike.Build.cs -> UMGEditor.Build.cs -> Sequencer.Build.cs)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "D:\UE_4.27\Engine\Build\BatchFiles\Build.bat IsoRogueLike Win32 DebugGame -Project="D:\WorkSamples\unreal engine C++\IsoRogueLike\IsoRogueLike.uproject" -WaitMutex -FromMsBuild" exited with code 6.

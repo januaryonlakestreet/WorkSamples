@@ -7,4 +7,4 @@ This folder contains at least two c++ based ue4 project.
 
 
 
-all projects are being actively worked on it is advisable to look at the code as is.
+all projects are being actively worked on it is advisable to look at the code as is. To build you must generate visual studio files & then build from source.
